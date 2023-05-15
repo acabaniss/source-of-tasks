@@ -1,0 +1,6 @@
+asana == 3.2.*
+python-dateutil == 2.8.*
+black == 23.3.*
+pytest == 7.3.*
+requests == 2.23.*
+dotenv == 1.0.0

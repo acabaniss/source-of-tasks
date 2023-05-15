@@ -1,3 +1,9 @@
+# dev files
+experiments/
+
+# test files
+tests/integration.env
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
