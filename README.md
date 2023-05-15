@@ -4,9 +4,9 @@ There are many to-do platforms in the world. This library tries to make a few of
 
 This package intends to support:
 
-- [] Airtable
+- [ ] Airtable
 - [x] Asana
-- [] Google Docs
-- [] Google Tasks
-- [] Jira
+- [ ] Google Docs
+- [ ] Google Tasks
+- [ ] Jira
 
